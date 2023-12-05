@@ -1,0 +1,17 @@
+{
+  "name": "movie-deck-project-buidling---js-project-building-session-html-css---in-cla---8oehd889ov8y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./css/tailwind.css -o ./css/styles.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3"
+  }
+}
